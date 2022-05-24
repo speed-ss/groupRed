@@ -1,4 +1,4 @@
 # groupRed
 
 ## develop
-## RIKAKURODA
+## RIKAKURODA　修正済み
