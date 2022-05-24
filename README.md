@@ -2,4 +2,4 @@
 
 ## develop
 
-## speed-ss
+## speed-ss修正済み
